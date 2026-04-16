@@ -1,0 +1,25 @@
+# OS and editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.vscodium/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# GIS and analysis artefacts
+*.aux.xml
+*.gpkg-shm
+*.gpkg-wal
+*.log
+*.qgs~
+*.qgz~
+*.tmp
+
+# Local environment files
+.env
+.env.*
