@@ -1,16 +1,6 @@
 # pzs_method
 
-Репозиторій заповнено на основі вихідного файлу `2026_02_15.md`, який було використано для підготовки `geospatial_analysis_in_pg.pdf`.
 
-## Аннотація
-
-> **Boiko Oleksii**  
-> Postgraduate student  
-> Department of Regional Studies and Tourism  
-> Kyiv National Economic University named after Vadym Hetman  
-> *e-mail: contact@juliesdata.com*  
-> *https://orcid.org/0000-0003-3676-6043*  
-> *+380949272319*
 
 ﻿Привіт!
 
@@ -35,6 +25,14 @@
 
 Маєте питання до структури цього репозиторію? комітьте зміни) 
 AI допоможе розібратись, як це робити.
+
+> **Boiko Oleksii**  
+> Postgraduate student  
+> Department of Regional Studies and Tourism  
+> Kyiv National Economic University named after Vadym Hetman  
+> *e-mail: contact@juliesdata.com*  
+> *https://orcid.org/0000-0003-3676-6043*  
+> *+380949272319*
 
 
 ## Наповнення репозиторію
